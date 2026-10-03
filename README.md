@@ -7,6 +7,3 @@ statistics, and data analysis.
 - Python
 - Data analysis fundamentals
 - Git & GitHub
-
-### Current goal
-Building my first substantial Data Science project and documenting the process here.
